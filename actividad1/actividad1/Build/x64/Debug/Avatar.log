@@ -1,0 +1,12 @@
+﻿  Game.cpp
+F:\UNL Virtual\Reforma\MAVII\Modulo 4 - Unidad 3 Resortes y cuerpos blandos\EjemplosAPP\Avatar\Src\Game.cpp(48,55): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+F:\UNL Virtual\Reforma\MAVII\Modulo 4 - Unidad 3 Resortes y cuerpos blandos\EjemplosAPP\Avatar\Src\Game.cpp(48,55): warning C4244:         with
+F:\UNL Virtual\Reforma\MAVII\Modulo 4 - Unidad 3 Resortes y cuerpos blandos\EjemplosAPP\Avatar\Src\Game.cpp(48,55): warning C4244:         [
+F:\UNL Virtual\Reforma\MAVII\Modulo 4 - Unidad 3 Resortes y cuerpos blandos\EjemplosAPP\Avatar\Src\Game.cpp(48,55): warning C4244:             T=float
+F:\UNL Virtual\Reforma\MAVII\Modulo 4 - Unidad 3 Resortes y cuerpos blandos\EjemplosAPP\Avatar\Src\Game.cpp(48,55): warning C4244:         ]
+F:\UNL Virtual\Reforma\MAVII\Modulo 4 - Unidad 3 Resortes y cuerpos blandos\EjemplosAPP\Avatar\Src\Game.cpp(53,56): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+F:\UNL Virtual\Reforma\MAVII\Modulo 4 - Unidad 3 Resortes y cuerpos blandos\EjemplosAPP\Avatar\Src\Game.cpp(53,56): warning C4244:         with
+F:\UNL Virtual\Reforma\MAVII\Modulo 4 - Unidad 3 Resortes y cuerpos blandos\EjemplosAPP\Avatar\Src\Game.cpp(53,56): warning C4244:         [
+F:\UNL Virtual\Reforma\MAVII\Modulo 4 - Unidad 3 Resortes y cuerpos blandos\EjemplosAPP\Avatar\Src\Game.cpp(53,56): warning C4244:             T=float
+F:\UNL Virtual\Reforma\MAVII\Modulo 4 - Unidad 3 Resortes y cuerpos blandos\EjemplosAPP\Avatar\Src\Game.cpp(53,56): warning C4244:         ]
+  Avatar.vcxproj -> F:\UNL Virtual\Reforma\MAVII\Modulo 4 - Unidad 3 Resortes y cuerpos blandos\EjemplosAPP\Avatar\Bin\Debug\Avatar.exe
