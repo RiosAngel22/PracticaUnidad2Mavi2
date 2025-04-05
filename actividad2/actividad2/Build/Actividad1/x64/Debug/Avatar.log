@@ -1,0 +1,17 @@
+﻿  Game.cpp
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi2\PracticaUnidad2Mavi2\actividad2\actividad2\Src\Game.cpp(49,55): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi2\PracticaUnidad2Mavi2\actividad2\actividad2\Src\Game.cpp(49,55): warning C4244:         with
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi2\PracticaUnidad2Mavi2\actividad2\actividad2\Src\Game.cpp(49,55): warning C4244:         [
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi2\PracticaUnidad2Mavi2\actividad2\actividad2\Src\Game.cpp(49,55): warning C4244:             T=float
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi2\PracticaUnidad2Mavi2\actividad2\actividad2\Src\Game.cpp(49,55): warning C4244:         ]
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi2\PracticaUnidad2Mavi2\actividad2\actividad2\Src\Game.cpp(54,56): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi2\PracticaUnidad2Mavi2\actividad2\actividad2\Src\Game.cpp(54,56): warning C4244:         with
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi2\PracticaUnidad2Mavi2\actividad2\actividad2\Src\Game.cpp(54,56): warning C4244:         [
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi2\PracticaUnidad2Mavi2\actividad2\actividad2\Src\Game.cpp(54,56): warning C4244:             T=float
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi2\PracticaUnidad2Mavi2\actividad2\actividad2\Src\Game.cpp(54,56): warning C4244:         ]
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi2\PracticaUnidad2Mavi2\actividad2\actividad2\Src\Game.cpp(86,118): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi2\PracticaUnidad2Mavi2\actividad2\actividad2\Src\Game.cpp(86,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi2\PracticaUnidad2Mavi2\actividad2\actividad2\Src\Game.cpp(90,119): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi2\PracticaUnidad2Mavi2\actividad2\actividad2\Src\Game.cpp(90,83): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi2\PracticaUnidad2Mavi2\actividad2\actividad2\Src\Game.cpp(150,153): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Avatar.vcxproj -> C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi2\PracticaUnidad2Mavi2\actividad2\actividad2\Bin\Debug\Actividad1.exe
