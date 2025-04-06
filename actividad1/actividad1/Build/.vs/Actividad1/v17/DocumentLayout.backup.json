@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\Operador\\Desktop\\Angel R\u00EDos\\trabajos practicos\\facultad\\mavi2\\PracticaUnidad2Mavi2\\actividad1\\actividad1\\Build\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{96C674D7-9E95-4F51-966C-1A0545981942}|Avatar.vcxproj|C:\\Users\\Operador\\Desktop\\Angel R\u00EDos\\trabajos practicos\\facultad\\mavi2\\PracticaUnidad2Mavi2\\actividad1\\actividad1\\Src\\Box2dEmptyApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{96C674D7-9E95-4F51-966C-1A0545981942}|Avatar.vcxproj|C:\\Users\\Operador\\Desktop\\Angel R\u00EDos\\trabajos practicos\\facultad\\mavi2\\PracticaUnidad2Mavi2\\actividad1\\actividad1\\Src\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -10,9 +13,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{96C674D7-9E95-4F51-966C-1A0545981942}|Avatar.vcxproj|C:\\Users\\Operador\\Desktop\\Angel R\u00EDos\\trabajos practicos\\facultad\\mavi2\\PracticaUnidad2Mavi2\\actividad1\\actividad1\\Src\\Avatar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96C674D7-9E95-4F51-966C-1A0545981942}|Avatar.vcxproj|C:\\Users\\Operador\\Desktop\\Angel R\u00EDos\\trabajos practicos\\facultad\\mavi2\\PracticaUnidad2Mavi2\\actividad1\\actividad1\\Src\\Box2dEmptyApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SFMLRenderer.cpp",
               "DocumentMoniker": "C:\\Users\\Operador\\Desktop\\Angel R\u00EDos\\trabajos practicos\\facultad\\mavi2\\PracticaUnidad2Mavi2\\actividad1\\actividad1\\Src\\SFMLRenderer.cpp",
               "RelativeDocumentMoniker": "..\\Src\\SFMLRenderer.cpp",
@@ -38,25 +38,24 @@
               "RelativeToolTip": "..\\Src\\SFMLRenderer.cpp",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-05T20:57:43.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T20:57:43.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Game.cpp",
               "DocumentMoniker": "C:\\Users\\Operador\\Desktop\\Angel R\u00EDos\\trabajos practicos\\facultad\\mavi2\\PracticaUnidad2Mavi2\\actividad1\\actividad1\\Src\\Game.cpp",
               "RelativeDocumentMoniker": "..\\Src\\Game.cpp",
               "ToolTip": "C:\\Users\\Operador\\Desktop\\Angel R\u00EDos\\trabajos practicos\\facultad\\mavi2\\PracticaUnidad2Mavi2\\actividad1\\actividad1\\Src\\Game.cpp",
               "RelativeToolTip": "..\\Src\\Game.cpp",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAACwAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-05T20:57:43.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Avatar.cpp",
               "DocumentMoniker": "C:\\Users\\Operador\\Desktop\\Angel R\u00EDos\\trabajos practicos\\facultad\\mavi2\\PracticaUnidad2Mavi2\\actividad1\\actividad1\\Src\\Avatar.cpp",
               "RelativeDocumentMoniker": "..\\Src\\Avatar.cpp",
@@ -64,18 +63,17 @@
               "RelativeToolTip": "..\\Src\\Avatar.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-05T20:57:42.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T20:57:42.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Box2dEmptyApp.cpp",
               "DocumentMoniker": "C:\\Users\\Operador\\Desktop\\Angel R\u00EDos\\trabajos practicos\\facultad\\mavi2\\PracticaUnidad2Mavi2\\actividad1\\actividad1\\Src\\Box2dEmptyApp.cpp",
               "RelativeDocumentMoniker": "..\\Src\\Box2dEmptyApp.cpp",
               "ToolTip": "C:\\Users\\Operador\\Desktop\\Angel R\u00EDos\\trabajos practicos\\facultad\\mavi2\\PracticaUnidad2Mavi2\\actividad1\\actividad1\\Src\\Box2dEmptyApp.cpp",
               "RelativeToolTip": "..\\Src\\Box2dEmptyApp.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-05T20:57:41.431Z",
               "EditorCaption": ""
