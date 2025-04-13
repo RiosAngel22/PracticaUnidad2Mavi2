@@ -79,12 +79,7 @@ void Game::DoEvents()
             wnd->close(); // Cierra la ventana
             break;
         }
-        if (Mouse::isButtonPressed(Mouse::Left)) {
-            if (controlBodyAvatar->checkearClick(*wnd)) {
-                controlBodyAvatar->SetPosition(b2Vec2(Mouse::getPosition(*wnd).x * 0.125, Mouse::getPosition(*wnd).y * 0.17));
-                break;
-            }
-        }
+        
 
         if (Keyboard::isKeyPressed(Keyboard::Left))
             controlBodyAvatar->AplicarFuerza(b2Vec2(-velocidad, 0), b2Vec2(controlBody->GetWorldCenter()));

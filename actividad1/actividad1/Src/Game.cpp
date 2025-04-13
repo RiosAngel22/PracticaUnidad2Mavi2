@@ -76,26 +76,19 @@ void Game::DoEvents()
         case Event::Closed:
             wnd->close(); // Cierra la ventana
             break;
-        case Event::MouseButtonPressed:
-            // Crea un cuerpo dinámico en forma de triángulo en la posición del clic del ratón
-            b2Body* body = Box2DHelper::CreateTriangularDynamicBody(phyWorld, b2Vec2(0.0f, 0.0f), 10.0f, 1.0f, 4.0f, 0.1f);
-            // Transforma las coordenadas según la vista activa
-            Vector2f pos = wnd->mapPixelToCoords(Vector2i(evt.mouseButton.x, evt.mouseButton.y));
-            body->SetTransform(b2Vec2(pos.x, pos.y), 0.0f);
-            break;
         }
-    }
 
-    // Mueve el cuerpo controlado por el teclado
-    controlBody->SetAwake(true); // Activa el cuerpo para que responda a fuerzas y colisiones
-    if (Keyboard::isKeyPressed(Keyboard::Left))
-        controlBody->SetLinearVelocity(b2Vec2(-50.0f, 0.0f));
-    if (Keyboard::isKeyPressed(Keyboard::Right))
-        controlBody->SetLinearVelocity(b2Vec2(50.0f, 0.0f));
-    if (Keyboard::isKeyPressed(Keyboard::Down))
-        controlBody->SetLinearVelocity(b2Vec2(0.0f, 50.0f));
-    if (Keyboard::isKeyPressed(Keyboard::Up))
-        controlBody->SetLinearVelocity(b2Vec2(0.0f, -50.0f));
+        // Mueve el cuerpo controlado por el teclado
+        controlBody->SetAwake(true); // Activa el cuerpo para que responda a fuerzas y colisiones
+        if (Keyboard::isKeyPressed(Keyboard::Left))
+            controlBody->SetLinearVelocity(b2Vec2(-50.0f, 0.0f));
+        if (Keyboard::isKeyPressed(Keyboard::Right))
+            controlBody->SetLinearVelocity(b2Vec2(50.0f, 0.0f));
+        if (Keyboard::isKeyPressed(Keyboard::Down))
+            controlBody->SetLinearVelocity(b2Vec2(0.0f, 50.0f));
+        if (Keyboard::isKeyPressed(Keyboard::Up))
+            controlBody->SetLinearVelocity(b2Vec2(0.0f, -50.0f));
+    }
 }
 
 // Configura el área visible en la ventana de renderizado

@@ -147,6 +147,6 @@ void Game::InitPhysics()
     //Inicializa pelota2
     controlBodyAvatar2 = new Avatar(controlBody2, new sf::Sprite(texturaPelota));
 
-    Resorte = Box2DHelper::CreateDistanceJoint(phyWorld, controlBody, controlBody->GetWorldCenter() , controlBody2, controlBody2->GetWorldCenter(),8,20,0.2);
+    Resorte = Box2DHelper::CreateDistanceJoint(phyWorld, controlBody, controlBody->GetWorldCenter() , controlBody2, controlBody2->GetWorldCenter(),0,20,0.2);
 }
 
